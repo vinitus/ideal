@@ -1,4 +1,4 @@
-# vinitus's scheduler
+# ideal
 
 ## 목표
 
